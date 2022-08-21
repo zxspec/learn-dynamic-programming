@@ -1,0 +1,15 @@
+{
+  "name": "learn-dynamic-programming",
+  "version": "1.0.0",
+  "description": "code examples for Coderbyte's course \"Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "dynamic",
+    "programming"
+  ],
+  "author": "Dmytro Iievliev <ievlevdmitriy@gmail.com>",
+  "license": "ISC"
+}
